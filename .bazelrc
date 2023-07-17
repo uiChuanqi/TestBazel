@@ -1,0 +1,5 @@
+
+common --enable_platform_specific_config
+build --features=swift.supports_library_evolution
+#build --ios_multi_cpus=arm64
+
